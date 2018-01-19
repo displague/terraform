@@ -31,6 +31,8 @@ vendor in close collaboration with HashiCorp, and are tested by HashiCorp.
 
 [Heroku](/docs/providers/heroku/index.html)
 
+[Linode](/docs/providers/linode/index.html)
+
 [OpenStack](/docs/providers/openstack/index.html)
 
 [OVH](/docs/providers/ovh/index.html)

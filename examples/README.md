@@ -24,4 +24,5 @@ repositories contain documentation specific to their provider:
 * [Consul Examples](https://github.com/terraform-providers/terraform-provider-consul/tree/master/examples)
 * [DigitalOcean Examples](https://github.com/terraform-providers/terraform-provider-digitalocean/tree/master/examples)
 * [Google Cloud Examples](https://github.com/terraform-providers/terraform-provider-google/tree/master/examples)
+* [Linode Examples](https://github.com/terraform-providers/terraform-provider-linode/tree/master/examples)
 * [OpenStack Examples](https://github.com/terraform-providers/terraform-provider-openstack/tree/master/examples)
